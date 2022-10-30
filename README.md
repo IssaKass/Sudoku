@@ -17,15 +17,15 @@ Game can be started by running the sudoku.exe file.
 6. You can import and export a sudoku (Game->Import, Game->Export)
   The .txt file should be like :
   
-  100382090
-  084010000
-  300470018
-  763249000
-  005000000
-  008600370
-  002090001
-  801020049
-  540103027
+  100382090 <br/>
+  084010000 <br/>
+  300470018 <br/>
+  763249000 <br/>
+  005000000 <br/>
+  008600370 <br/>
+  002090001 <br/>
+  801020049 <br/>
+  540103027 <br/>
   
   Where 0 represents the empty cell
   
