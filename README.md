@@ -2,7 +2,7 @@
 Sudoku game writtern in Java (100%), and Swing library.
 
 ## Program use
-Game can be started by running the sudoku.exe file.
+Game can be started by running the sudoku.exe, or the sudoku.jar file.
 
 1. Start a new game by clicking the Play button.
 
