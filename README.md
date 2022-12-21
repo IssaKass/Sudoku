@@ -36,3 +36,6 @@ Game can be started by running the sudoku.exe, or the sudoku.jar file.
   Notes:
   - Puzzles are always generating using an algorithm.
   - The frame has the 'flatlaf' look and feel.
+  
+  ![prview img](/preview-light.png)
+  ![prview img](/preview-dark.png)
